@@ -61,7 +61,7 @@ Specialist skill areas
 Platform
 
 - Framework: Hermes Agent
-- Environment: Linux
+- Environment: Linux Arch
 - Primary model: OpenAI Codex gpt-5.6-terra
 - Local models: Ollama phi3:mini, qwen2.5-coder:7b
 - Voice: English speech recognition and Australian-English text-to-speech
