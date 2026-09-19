@@ -1,17 +1,16 @@
-# Yunera — Private Local-First Hermes AI Agent
-Yunera is a customised Hermes Agent profile built for evidence-backed research, secure local automation, software development, Android app workflows, and practical multi-agent execution. It runs locally on Linux, keeps control of files and automation on-device, and combines cloud reasoning with local Ollama models for privacy-conscious workloads.
+# Yunera — Private, Local-First Hermes AI Agent
 
-Core capabilities
+Yunera is a Linux-based Hermes Agent profile for grounded research, secure local automation, software engineering, Android UX, and multi-agent execution. It combines capable cloud reasoning with local Ollama models, while keeping files, automation, profile state, and privacy-sensitive workloads under local control.
 
-- Evidence-backed web, RSS, competitor, market, and Reddit research
+## Core capabilities
+
+- Evidence-backed web, RSS, competitor, market, and community research
 - Browser automation, CDP control, local terminal access, file operations, and code execution
-- GitHub repository, issue, pull request, review, and project workflows
-- Planning, implementation, testing, debugging, and documentation support
-- Android/mobile app development workflows, including iterative UX QA and release-readiness checks
-- Data-backed companion interfaces and external reference-data integration
-- Accountant-ready finance app and local-first crypto-tax workflow support
-- Image and video generation workflows through ComfyUI
-- Speech-to-text, Australian-English text-to-speech, image analysis, and document handling
+- GitHub repositories, issues, pull requests, reviews, releases, and project workflows
+- Planning, implementation, testing, debugging, documentation, and verified delivery
+- Android and mobile development: Compose UX, accessibility, adaptive layouts, iterative visual QA, and release-readiness checks
+- Data-backed applications, external-reference integration, structured exports, and privacy-conscious local data handling
+- Image and video generation through ComfyUI; speech-to-text, Australian-English text-to-speech, image analysis, and document handling
 - Signal and WhatsApp chat-facing integrations
 - Persistent memory, user preferences, reusable skills, and isolated profile state
 Multi-agent and local-model setup
@@ -53,7 +52,7 @@ Specialist skill areas
 - Android app and data-backed application development
 - Cybersecurity-conscious action gating and privacy protection
 - Research, RSS monitoring, competitor tracking, and source validation
-- Finance tooling, tax workflows, and local-first data handling
+- Structured data, export, and local-first privacy workflows
 - ComfyUI creative image/video workflows
 - Computer-use and browser automation
 - Digital product validation and launch research
