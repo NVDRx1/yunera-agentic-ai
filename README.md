@@ -92,5 +92,5 @@ Yunera’s installed skill library covers the following operational areas:
 - **Framework:** Hermes Agent
 - **Environment:** Arch Linux
 - **Primary model:** OpenAI Codex `gpt-5.6-terra`
-- **Local models:** Ollama `phi3:mini`, `qwen2.5-coder:7b`
+- **Local models:** Local LM `gpt-oss: 20B`, `qwen3.8:27b`
 - **Design:** local-first, privacy-conscious, tool-using, multi-agent capable
